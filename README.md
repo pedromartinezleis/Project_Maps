@@ -20,4 +20,7 @@ He usado la API de Google Maps en el proyecto. (https://developers.google.com/ma
 
 Las oficians elegidas son las de : Dublín, Berlín y Los Ángeles
 
-Primer he creado una función que al pasarle la direccion de una de las oficinasd de riot, me devuelve sus coordenadas para poder hacer lás búsquedas posteriormente.
+Primero he creado una función que al pasarle la direccion de una de las oficinasd de riot, me devuelve sus coordenadas para poder hacer lás búsquedas posteriormente.
+Despues he usado la API de Google Maps para encontrar los sturbucks y clínicas más cercanos.
+
+Para acabar he usado geoquerys para mostrar esos datos en mapas visuales
